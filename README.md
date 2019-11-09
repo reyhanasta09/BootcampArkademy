@@ -5,4 +5,4 @@ SELECT cashier.name as Cashier , product.name as Product , category.name as Cate
 ## Hasil Interface Soal no 6b
 ![Tampilan Web](https://github.com/reyhanasta09/BootcampArkademy/blob/master/6b/img/6bSS.png)
 ## Hasil Interface Soal no 6c
-![Tampilan Web] (https://github.com/reyhanasta09/BootcampArkademy/blob/master/6b/img/delete.png)
+![Tampilan Web](https://github.com/reyhanasta09/BootcampArkademy/blob/master/6b/img/delete.png)
